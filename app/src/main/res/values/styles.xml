@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditItemRuleTheme" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@drawable/bg_edit_item_rule_dialog</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:windowMinWidthMajor">90%</item>
+        <item name="android:windowMinWidthMinor">90%</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+</resources>
